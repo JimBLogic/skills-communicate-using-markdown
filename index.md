@@ -1,4 +1,4 @@
-var myVar = "Hello, world!";
+var myVar = "Hello, Jim!";
 
 # Test JimBLogic
 ## Smaller

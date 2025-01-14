@@ -1,3 +1,5 @@
+var myVar = "Hello, Jim!";
+
 # Test JimBLogic
 ## Smaller
 ### Even Saaller

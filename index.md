@@ -1,3 +1,5 @@
+var myVar = "Hello, world!";
+
 # Test JimBLogic
 ## Smaller
 ### Even Saaller
@@ -7,6 +9,5 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-var myVar = "Hello, world!";
 
 
